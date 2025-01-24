@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     siteName: "Cat the Cat",
     images: [
       {
-        url: "https://catthecat.com/public/img/cat.png",
+        url: "https://catthecat.com/public/img/banner.png",
         width: 1200,
         height: 630,
         alt: "Cat the Cat",

@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     siteName: "Cat the Cat",
     images: [
       {
-        url: "https://catthecat.com/public/img/banner.png",
+        url: "https://catthecat.com/img/banner.png",
         width: 1200,
         height: 630,
         alt: "Cat the Cat",
@@ -36,9 +36,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Cat the Cat - The Longest Cat on Solana",
-    description: "Explore the viral memecoin and join the community on Solana.",
-    images: ["https://catthecat.com/public/img/banner.png"],
+    title: "Cat the Cat",
+    description: "I'm a cat with a smol community",
+    images: ["https://catthecat.com/img/banner.png"],
     creator: "@itscatthecat",
   },
   icons: {
